@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    {
+      "path": "coreApp",
+      "default": true
+    },
+    {
+      "path": "salesApp",
+      "default": false
+    },
+    {
+      "path": "serviceApp",
+      "default": false
+    }
+  ],
+  "name": "fall22_blitzr6_g1",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "55.0"
+}
