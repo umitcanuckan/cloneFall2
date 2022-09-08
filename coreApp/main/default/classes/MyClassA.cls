@@ -1,1 +1,1 @@
-public class MyClassA { public MyClassA(){ System.debug('HelloDX! Details updated again!'); } }
+public class MyClassA { public MyClassA(){ System.debug('HelloDX Blitz! Details updated again!'); } }
