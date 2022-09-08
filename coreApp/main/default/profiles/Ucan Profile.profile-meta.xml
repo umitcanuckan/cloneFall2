@@ -14,6 +14,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>HeyDouglas</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>ICHelloWorld_Class</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -23,10 +27,6 @@
     </classAccesses>
     <classAccesses>
         <apexClass>MyClassATest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>HeyDouglas</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -84,12 +84,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Ucan_Object__c.Ucan_cb_Field__c</field>
+        <field>Ucan_Object__c.Field_Field_Hey__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Ucan_Object__c.Field_Field_Hey__c</field>
+        <field>Ucan_Object__c.Ucan_cb_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
