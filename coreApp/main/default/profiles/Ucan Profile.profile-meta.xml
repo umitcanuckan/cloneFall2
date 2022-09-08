@@ -26,6 +26,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>HeyDouglas</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>MyClassB</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -81,6 +85,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Ucan_Object__c.Ucan_cb_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Ucan_Object__c.Field_Field_Hey__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
