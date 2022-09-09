@@ -157,8 +157,9 @@
     <historyRetentionPolicy n1:nil="true" />
     <label>Test Trimming</label>
     <nameField>
+        <displayFormat>TT-{000000}</displayFormat>
         <label>Test Trimming Name</label>
-        <type>Text</type>
+        <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Test Trimmings</pluralLabel>
     <searchLayouts />
