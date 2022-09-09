@@ -157,10 +157,10 @@
     <historyRetentionPolicy n1:nil="true" />
     <label>Test Trimming</label>
     <nameField>
-        <label>Test Trimming Name</label>
+        <label>Test Tromm Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Test Trimmings</pluralLabel>
+    <pluralLabel>Test Troom</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
