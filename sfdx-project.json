@@ -2,7 +2,7 @@
     "packageDirectories": [
       {
         "path": "coreApp",
-        "default": false
+        "default": true
       },
       {
         "path": "salesApp",
@@ -14,7 +14,7 @@
       },
       {
         "path": "RandomFolder",
-        "default": true
+        "default": false
       }
     ],
     "name": "fall22_blitzr6_g1",
