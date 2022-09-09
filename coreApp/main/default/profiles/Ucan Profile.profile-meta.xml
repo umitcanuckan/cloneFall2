@@ -187,10 +187,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>AuthorApex</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>BulkApiHardDelete</name>
     </userPermissions>
     <userPermissions>
