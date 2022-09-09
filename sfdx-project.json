@@ -1,16 +1,24 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": false
-    },
-    {
-      "path": "RandomFolder",
-      "default": true
-    }
-  ],
-  "name": "DXCustFolder_Repo",
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "55.0"
-}
+    "packageDirectories": [
+      {
+        "path": "coreApp",
+        "default": false
+      },
+      {
+        "path": "salesApp",
+        "default": false
+      },
+      {
+        "path": "serviceApp",
+        "default": false
+      },
+      {
+        "path": "RandomFolder",
+        "default": true
+      }
+    ],
+    "name": "fall22_blitzr6_g1",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "55.0"
+  }
