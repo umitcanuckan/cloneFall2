@@ -10,8 +10,8 @@
     <labels>
         <fullName>Ucan_Label</fullName>
         <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>Ucan Labal</shortDescription>
-        <value>test</value>
+        <protected>false</protected>
+        <shortDescription>Ucan Label</shortDescription>
+        <value>test test test</value>
     </labels>
 </CustomLabels>
