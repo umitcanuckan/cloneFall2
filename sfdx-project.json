@@ -2,7 +2,7 @@
     "packageDirectories": [
       {
         "path": "coreApp",
-        "default": true
+        "default": false
       },
       {
         "path": "salesApp",
@@ -14,10 +14,10 @@
       },
       {
         "path": "RandomFolder",
-        "default": false
+        "default": true
       }
     ],
-    "name": "fall22_blitzr6_g1",
+    "name": "DXUmitCloneRepo",
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0"
